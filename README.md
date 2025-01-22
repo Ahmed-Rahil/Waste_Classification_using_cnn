@@ -25,6 +25,8 @@ pip install tensorflow
 ### Dataset
 
 The dataset used in this project is divided into training and testing sets. The dataset should be organized in the following structure:
+
+```
 Waste_Classification_using_cnn/
 ├── dataset/
 │ ├── TRAIN/
@@ -33,6 +35,7 @@ Waste_Classification_using_cnn/
 │ └── TEST/
 │ ├── Organic/
 │ └── Recyclable/
+```
 
 ## Usage
 
