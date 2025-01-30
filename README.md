@@ -1,4 +1,3 @@
-````
 # Waste Classification using CNN
 
 This project demonstrates how to classify waste into different categories using a Convolutional Neural Network (CNN). The project is implemented in a Jupyter Notebook and uses TensorFlow and OpenCV libraries.
@@ -21,7 +20,7 @@ To run this project, you need to install the required libraries. You can install
 ```bash
 pip install opencv-python
 pip install tensorflow
-````
+```
 
 ### Dataset
 
@@ -76,7 +75,3 @@ Contributions are welcome! If you have any suggestions or improvements, please c
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-```
-
-```
