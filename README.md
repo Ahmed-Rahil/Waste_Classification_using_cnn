@@ -9,10 +9,8 @@ This project demonstrates how to classify waste into different categories using 
 - [Usage](#usage)
 - [Project Overview](#project-overview)
 - [Model Architecture](#model-architecture)
-- [Visualization](#visualization)
-- [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Installation
 
@@ -25,17 +23,6 @@ pip install numpy pandas matplotlib opencv-python tensorflow tqdm
 ## Dataset
 
 The dataset used in this project can be downloaded from [Kaggle](https://www.kaggle.com/datasets/techsash/waste-classification-data). It is divided into training and testing sets and should be organized in the following structure:
-
-```
-Waste_Classification_using_cnn/
-├── dataset/
-│   ├── TRAIN/
-│   │   ├── Organic/
-│   │   └── Recyclable/
-│   └── TEST/
-│       ├── Organic/
-│       └── Recyclable/
-```
 
 ## Usage
 
@@ -95,7 +82,3 @@ To run the notebook, open it in Jupyter Notebook or Jupyter Lab and execute the 
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue.
-
-```
-
-```
